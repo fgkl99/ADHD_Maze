@@ -235,6 +235,7 @@ public class BreathingExerciseController : MonoBehaviour
 
     public void ExitExercise()
     {
+        CrossVariables.meditation_done = true;
         SceneManager.LoadScene("MazeGame");
     }
 }
