@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelection.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MoodSelection.unity
+    guid: c111cae9c6da0468c84a434369f15397
+  - enabled: 1
+    path: Assets/Scenes/PatternReminder/PatternReminder.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/PatternReminder/InitialPage.unity
+    guid: 0e2e3b5ffc29e0947b65269f3674268d
+  - enabled: 1
+    path: Assets/Scenes/Meditation/MainMenu_meditation.unity
+    guid: e88fe69ae4512194da52eabf97fcfcf2
+  - enabled: 1
+    path: Assets/Scenes/Meditation/Meditation_scene.unity
+    guid: 475dd84f85d33480eb5e247958e86c6d
+  - enabled: 1
+    path: Assets/Scenes/FruitNinja/FruitNinja.unity
+    guid: 1ca5945d5eae84963aabe8e2cd1dbbeb
+  - enabled: 1
+    path: Assets/Scenes/Static_Scene/EndGame_Scene.unity
+    guid: efd37e655e4d9473fb1f6009a986777a
+  - enabled: 1
+    path: Assets/Scenes/FruitNinja/istruzioniNinja.unity
+    guid: 7d5129b1c70784f129e99d6822f9dedc
+  - enabled: 1
+    path: Assets/Scenes/PatternReminder/RicordaLaSequenza.unity
+    guid: 8f1ed7ba21b50f64d9a963429c9a06d0
+  - enabled: 1
+    path: Assets/Scenes/Maze/MazeGame.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ColorMatch/ColorMatch.unity
+    guid: a3785b2c8e1b6499e9e6e54c172db4ef
+  - enabled: 1
+    path: Assets/Scenes/SoundMatch/SampleScene.unity
+    guid: 7670095dab05048f68aad3a4a720cf0e
+  - enabled: 1
+    path: Assets/Scenes/SoundMatch/SoundMemoryGame.unity
+    guid: 028d8fcea97538d48adda20a71eda640
+  - enabled: 1
+    path: Assets/Scenes/SoundMatch/MainMenu.unity
+    guid: b1f0226101a740947b9628bc2f1c6d75
+  - enabled: 1
+    path: Assets/Scenes/ColorMatch/IstruzioniColorMatch.unity
+    guid: f9bd50fa9b56f4d4297f3ddf49234009
+  - enabled: 1
+    path: Assets/Scenes/ObjectSearch+/ObjectSearch.unity
+    guid: 642614784d6ba4b4e8c759b45900b5a8
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
